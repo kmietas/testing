@@ -15,7 +15,6 @@ public class HelloTest {
 		int sum = Hello.addNumbers(firstArg, secondArg);
 		// then
 		assertTrue(sum == firstArg + secondArg);
-		// coadd
 	}
 	
 }
